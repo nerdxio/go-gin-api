@@ -55,6 +55,7 @@ curl -X GET http://localhost:8080/albums/1
 
 - json response
 
+
 ```json
 {
     "id": "1",
